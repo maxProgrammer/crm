@@ -1,5 +1,5 @@
 # crm
-API Rest responsabel to  add users
+REST API responsabble to  add users
 
 > Construction 🚧
 
